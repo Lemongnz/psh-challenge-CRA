@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-color: #30b18a;
+  background-image: linear-gradient(150deg, #30b18a 8%, #79ce66 99%);
+  font-family: "Nanum Gothic", sans-serif;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
